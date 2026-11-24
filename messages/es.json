@@ -1,0 +1,728 @@
+{
+  "meta": {
+    "siteName": "JK Speedy Driving School",
+    "home": {
+      "title": "Escuela de manejo en North Plainfield, NJ | JK Speedy",
+      "description": "Clases de manejo en español en North Plainfield, NJ. Instructores pacientes, ayuda con el permiso de conducir y el examen de manejo. Ideal si hay nervios."
+    },
+    "services": {
+      "title": "Clases de manejo y examen de manejo NJ | JK Speedy",
+      "description": "Preparación para el examen escrito, clases de manejo, examen de manejo con nuestro carro y programas para jóvenes, adultos y personas nerviosas."
+    },
+    "guide": {
+      "title": "Cómo sacar la licencia en Nueva Jersey (Guía 2026)",
+      "description": "Guía paso a paso: permiso de conducir a los 16, examen escrito, 6 horas de manejo, práctica supervisada, examen de manejo y licencia provisional en NJ."
+    },
+    "about": {
+      "title": "Sobre JK Speedy | Escuela de manejo en North Plainfield",
+      "description": "Escuela de manejo local en Somerset St, North Plainfield, NJ. Hablamos español, inglés, portugués y árabe. Especialistas en personas nerviosas al volante."
+    },
+    "areas": {
+      "title": "Clases de manejo cerca de Plainfield, NJ | Zonas",
+      "description": "Estudiantes de North Plainfield, Plainfield, South Plainfield, Green Brook, Dunellen, Watchung y pueblos cercanos de los condados Somerset y Union."
+    },
+    "faq": {
+      "title": "Preguntas frecuentes: permiso y examen de manejo NJ",
+      "description": "Respuestas sobre el permiso de conducir en NJ, el examen escrito, las horas de manejo, cómo repetir el examen de manejo y clases en español."
+    },
+    "contact": {
+      "title": "Reserva tu clase de manejo | Contacto JK Speedy NJ",
+      "description": "Llama al (908) 757-3456, escríbenos por WhatsApp o reserva en línea. 134 Somerset St, 2.º piso, North Plainfield, NJ. Abierto de lunes a sábado."
+    },
+    "privacy": {
+      "title": "Política de privacidad | JK Speedy Driving School",
+      "description": "Cómo JK Speedy Driving School recopila, usa y protege la información que compartes en este sitio web."
+    },
+    "terms": {
+      "title": "Términos de uso | JK Speedy Driving School",
+      "description": "Términos que aplican al usar el sitio web de JK Speedy Driving School."
+    },
+    "notFound": {
+      "title": "Página no encontrada | JK Speedy Driving School",
+      "description": "No encontramos esa página."
+    }
+  },
+  "common": {
+    "skip": "Saltar al contenido principal",
+    "call": "Llamar",
+    "callNow": "Llama ahora",
+    "callNumber": "Llama al {phone}",
+    "book": "Reserva tu clase",
+    "bookShort": "Reservar",
+    "whatsapp": "WhatsApp",
+    "whatsappLong": "Escríbenos por WhatsApp",
+    "menu": "Menú",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "learnMore": "Ver más",
+    "readGuide": "Lee la guía de licencia en NJ",
+    "getDirections": "Cómo llegar",
+    "home": "Inicio",
+    "primaryNav": "Principal",
+    "footerNav": "Pie de página",
+    "breadcrumb": "Ruta de navegación",
+    "quickActions": "Acciones rápidas",
+    "confirm": "Por confirmar",
+    "otherLanguages": "También te atendemos en Português / العربية: llámanos.",
+    "lastVerified": "Última verificación: nov. 2026",
+    "mvcCheck": "Las reglas cambian. Confirma siempre los requisitos vigentes con la Comisión de Vehículos Motorizados de NJ (MVC).",
+    "mvcLink": "Visita nj.gov/mvc",
+    "notLegalAdvice": "Esta guía es información general, no asesoría legal, y no garantiza el resultado de ningún examen.",
+    "openNow": "Abierto ahora",
+    "closedNow": "Cerrado ahora",
+    "opensToday": "Abre hoy a las {time}",
+    "external": "(se abre en una pestaña nueva)",
+    "backToTop": "Volver arriba",
+    "imageUnavailable": "Imagen no disponible",
+    "scrollProgress": "Progreso de lectura",
+    "pause": "Pausar animación",
+    "play": "Reanudar animación"
+  },
+  "language": {
+    "label": "Idioma",
+    "switchTo": "Switch to English",
+    "announce": "Idioma cambiado a español"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "guide": "Guía de licencia",
+    "about": "Nosotros",
+    "areas": "Zonas",
+    "faq": "Preguntas",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos"
+  },
+  "whatsapp": {
+    "prefill": "¡Hola, JK Speedy! Quisiera información sobre las clases de manejo."
+  },
+  "hours": {
+    "title": "Horario",
+    "weekdays": "Lun–Vie",
+    "saturday": "Sáb",
+    "sunday": "Dom",
+    "weekdaysLong": "Lunes a viernes",
+    "saturdayLong": "Sábado",
+    "sundayLong": "Domingo",
+    "weekdaysTime": "9:00 a. m.–8:00 p. m.",
+    "saturdayTime": "9:00 a. m.–1:00 p. m.",
+    "closed": "Cerrado"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "North Plainfield, NJ · We speak English",
+      "titleLines": [
+        "Aprende a manejar",
+        "con confianza."
+      ],
+      "subtitle": "Instructores pacientes que hablan tu idioma, en North Plainfield, NJ. Desde tu permiso hasta tu examen de manejo, te acompañamos en cada paso.",
+      "facts": [
+        "Español · English · Português · العربية",
+        "Abierto de lunes a sábado",
+        "Ideal si te dan nervios"
+      ],
+      "imageAlt": "Instructor de manejo con una tabla de apuntes junto a un carro, listo para la clase",
+      "imageNote": "Foto de archivo"
+    },
+    "marqueeLabel": "Idiomas que hablamos",
+    "why": {
+      "eyebrow": "¿Por qué JK Speedy?",
+      "title": "Clases tranquilas. Pasos claros. Avances de verdad.",
+      "intro": "Sacar tu licencia es un paso grande. Te lo hacemos fácil, con paciencia, a buen precio y en el idioma en que te sientas más cómodo.",
+      "items": [
+        {
+          "title": "Instructores pacientes y bilingües",
+          "body": "Te explicamos todo con claridad y respeto, en español o en inglés. También hablamos portugués y árabe."
+        },
+        {
+          "title": "Especialistas en personas nerviosas",
+          "body": "Sin prisas y sin gritos. Vamos a tu ritmo y te damos confianza, una habilidad a la vez."
+        },
+        {
+          "title": "Clases a buen precio",
+          "body": "Precios justos por clases prácticas de verdad. Llámanos para conocer las tarifas y paquetes actuales."
+        },
+        {
+          "title": "Te ayudamos con todo el proceso",
+          "body": "El permiso, el examen escrito, las clases de manejo y el examen de manejo. Te guiamos de principio a fin."
+        }
+      ],
+      "nervous": {
+        "title": "¿Te da nervios manejar? Estás en el lugar correcto.",
+        "body": "Nos especializamos en personas que manejan por primera vez o sienten miedo al volante. Empezamos en calles tranquilas, te explicamos cada paso antes de hacerlo y solo avanzamos cuando te sientas listo o lista.",
+        "cta": "Conoce el programa para personas nerviosas",
+        "imageAlt": "Una mujer sentada tranquila frente al volante de un carro"
+      }
+    },
+    "stats": {
+      "title": "Los datos, de un vistazo",
+      "items": [
+        {
+          "value": 4,
+          "suffix": "",
+          "label": "idiomas",
+          "note": "Español, inglés, portugués y árabe"
+        },
+        {
+          "value": 6,
+          "suffix": "h",
+          "label": "de manejo con instructor",
+          "note": "Requisito de NJ para el permiso especial de aprendiz"
+        },
+        {
+          "value": 6,
+          "suffix": "",
+          "label": "días a la semana",
+          "note": "Abierto de lunes a sábado"
+        },
+        {
+          "value": 50,
+          "suffix": "",
+          "label": "preguntas en el examen",
+          "note": "Examen escrito de NJ: necesitas 40 correctas"
+        }
+      ]
+    },
+    "servicesPreview": {
+      "eyebrow": "Lo que enseñamos",
+      "title": "Todo lo que necesitas, del permiso a la licencia",
+      "intro": "Dinos en qué paso estás hoy. Nosotros te llevamos desde ahí.",
+      "cta": "Ver todos los servicios"
+    },
+    "journey": {
+      "eyebrow": "Tu camino a la licencia",
+      "title": "Cinco paradas entre tú y tu licencia",
+      "intro": "Desliza para recorrer el camino. En cada parada te ayudamos.",
+      "progressLabel": "Paso {current} de {total}",
+      "steps": [
+        {
+          "title": "Permiso",
+          "body": "A los 16 puedes sacar el permiso especial de aprendiz si te inscribes en un curso de manejo aprobado, con el consentimiento de tus padres. Si no, puedes sacar el permiso de examen a los 17.",
+          "tip": "Te ayudamos con los trámites de inscripción."
+        },
+        {
+          "title": "Examen escrito",
+          "body": "Aprueba el examen de conocimientos (50 preguntas, 40 correctas) y el examen de la vista en la MVC.",
+          "tip": "Repasamos contigo las señales, las reglas y preguntas de práctica."
+        },
+        {
+          "title": "Clases de manejo",
+          "body": "Completa 6 horas de clases en un carro de doble control con un instructor con licencia, y sigue practicando.",
+          "tip": "Las clases van a tu ritmo y en tu idioma."
+        },
+        {
+          "title": "Examen de manejo",
+          "body": "Demuestra que manejas con seguridad. Te recomendamos practicar con nuestro carro y usarlo el día del examen.",
+          "tip": "¿No pasaste? Puedes repetirlo después de 14 días."
+        },
+        {
+          "title": "Tu licencia",
+          "body": "Primero recibes una licencia provisional. Después de un año manejando sin supervisión, pasas a la licencia básica.",
+          "tip": "¡Felicidades! Maneja con cuidado."
+        }
+      ]
+    },
+    "njSteps": {
+      "eyebrow": "Pasos para la licencia en NJ",
+      "title": "Así funciona el proceso de la licencia en NJ",
+      "intro": "Nueva Jersey usa un programa de licencia por etapas (GDL). Los tiempos dependen de tu edad.",
+      "under21": {
+        "title": "Menores de 21",
+        "items": [
+          "Permiso especial de aprendiz a los 16, con un curso de manejo aprobado y el consentimiento de tus padres",
+          "O permiso de examen a los 17",
+          "6 meses de manejo supervisado antes del examen de manejo",
+          "Las nuevas reglas también piden 50 horas de práctica supervisada",
+          "Licencia provisional y, después de 1 año, licencia básica"
+        ]
+      },
+      "over21": {
+        "title": "21 años o más",
+        "items": [
+          "Aprueba el examen escrito y el de la vista",
+          "Periodo supervisado más corto: 3 meses",
+          "Examen de manejo (si no pasas, lo repites después de 14 días)",
+          "Licencia provisional y, después de 1 año, licencia básica"
+        ]
+      },
+      "cta": "Lee la guía completa de la licencia en NJ"
+    },
+    "reviews": {
+      "eyebrow": "Opiniones",
+      "title": "Lo que dicen nuestros estudiantes",
+      "intro": "Aquí aparecerán reseñas reales de Google y Yelp.",
+      "sampleLabel": "Espacio de ejemplo",
+      "samplePlaceholder": "Reemplaza con una reseña real de Google o Yelp: el nombre de la persona, el texto de la reseña y el enlace a la fuente.",
+      "sampleName": "Nombre de la persona",
+      "leaveTitle": "¿Aprendiste con nosotros?",
+      "leaveBody": "Tu reseña ayuda a otras familias y a personas nerviosas a encontrarnos.",
+      "google": "Déjanos una reseña en Google",
+      "yelp": "Déjanos una reseña en Yelp"
+    },
+    "areasPreview": {
+      "eyebrow": "Zonas",
+      "title": "Cerca de ti, en North Plainfield",
+      "intro": "Nuestra oficina está en el 134 de Somerset St. Recibimos estudiantes de todo Plainfield y los pueblos cercanos.",
+      "cta": "Ver todas las zonas"
+    },
+    "faqPreview": {
+      "eyebrow": "Preguntas",
+      "title": "Respuestas rápidas",
+      "cta": "Ver todas las preguntas"
+    },
+    "finalCta": {
+      "title": "Cuando estés listo, aquí estamos.",
+      "body": "Cuéntanos un poco sobre ti y te llamamos en horario de oficina. ¿Prefieres hablar ya? Llámanos.",
+      "imageAlt": "Entrega de las llaves de un carro, el momento en que recibes tu licencia"
+    }
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "title": "Clases de manejo para cada etapa",
+    "intro": "Desde tu primera pregunta sobre el permiso hasta el día en que recibes tus llaves, elige la ayuda que necesitas. Todas las clases son con instructores pacientes, en español o en inglés.",
+    "jumpTo": "Ir a un servicio",
+    "whoFor": "¿Para quién es?",
+    "whatLearn": "Lo que vas a aprender",
+    "pricing": "Precio",
+    "pricingValue": "Llama para conocer las tarifas actuales",
+    "bookThis": "Reservar",
+    "askAbout": "Pregunta por este programa",
+    "items": {
+      "permit": {
+        "anchor": "preparacion-examen-escrito",
+        "name": "Preparación para el permiso y el examen escrito",
+        "short": "Prepárate para el examen escrito de NJ: 50 preguntas, necesitas 40 correctas.",
+        "who": [
+          "Personas de cualquier edad que sacan su primer permiso",
+          "Jóvenes que se preparan para el permiso especial de aprendiz",
+          "Quien prefiera estudiar en español o en inglés con una persona de verdad"
+        ],
+        "learn": [
+          "Cómo funcionan el examen escrito y el de la vista",
+          "Señales de tránsito, semáforos y derecho de paso",
+          "Las reglas de NJ para conductores nuevos (GDL)",
+          "Preguntas de práctica y consejos para el día del examen",
+          "Qué llevar a la MVC"
+        ],
+        "imageAlt": "Un semáforo en una intersección"
+      },
+      "lessons": {
+        "anchor": "clases-de-manejo",
+        "name": "Clases de manejo",
+        "short": "Clases individuales en un carro de doble control con un instructor con licencia.",
+        "who": [
+          "Principiantes que nunca han manejado",
+          "Personas con permiso que necesitan práctica guiada",
+          "Conductores que quieren mejorar habilidades específicas"
+        ],
+        "learn": [
+          "Los controles del carro, arrancar y frenar con suavidad",
+          "Uso del volante, giros y posición en el carril",
+          "Intersecciones, señales y derecho de paso",
+          "Estacionarte en paralelo y dar la vuelta en tres puntos",
+          "Manejo en el barrio, en la ciudad y en la autopista cuando estés listo"
+        ],
+        "imageAlt": "Manos sobre el volante durante una clase de manejo"
+      },
+      "road-test": {
+        "anchor": "preparacion-examen-de-manejo",
+        "name": "Preparación para el examen de manejo + carro de la escuela",
+        "short": "Practica lo que evalúan en el examen y preséntalo en el mismo carro con el que aprendiste.",
+        "who": [
+          "Personas con permiso a punto de presentar el examen",
+          "Quien va a repetir el examen de manejo (después de 14 días)",
+          "Quien no tiene carro para presentar el examen"
+        ],
+        "learn": [
+          "Un simulacro completo del examen de manejo",
+          "Estacionarte en paralelo, la vuelta en tres puntos y manejar en reversa",
+          "Los errores pequeños que te quitan puntos",
+          "Qué llevar y qué esperar el día del examen",
+          "Usar nuestro carro para tu examen de manejo"
+        ],
+        "imageAlt": "Un carro estacionado entre líneas, practicando maniobras"
+      },
+      "nervous": {
+        "anchor": "personas-nerviosas",
+        "name": "Programa para personas nerviosas y principiantes",
+        "short": "Un programa tranquilo, paso a paso, para quien siente nervios o miedo al volante.",
+        "who": [
+          "Quien siente nervios o miedo de manejar",
+          "Adultos que llevan años posponiendo aprender",
+          "Quien vuelve a manejar después de una mala experiencia"
+        ],
+        "learn": [
+          "Empezamos en calles tranquilas, a tu ritmo",
+          "Una habilidad nueva a la vez, explicada antes de intentarla",
+          "Instrucciones claras y con calma: sin gritos, sin prisas",
+          "Pasos graduales hacia calles con más tráfico",
+          "Clases en español o en inglés"
+        ],
+        "imageAlt": "Una mujer manejando tranquila por una calle sin tráfico"
+      },
+      "teen": {
+        "anchor": "programa-jovenes",
+        "name": "Programa para jóvenes (permiso a los 16)",
+        "short": "El curso de manejo aprobado que los jóvenes necesitan para el permiso especial de aprendiz a los 16.",
+        "who": [
+          "Jóvenes de 16 años o más listos para empezar",
+          "Padres que quieren un comienzo seguro y organizado"
+        ],
+        "learn": [
+          "Inscripción con el consentimiento de los padres",
+          "Preparación para el examen escrito y el de la vista",
+          "6 horas de clases de manejo",
+          "Las reglas GDL, como no manejar de 11:01 p. m. a 5:00 a. m.",
+          "Un plan de práctica para el periodo de manejo supervisado"
+        ],
+        "imageAlt": "Un joven manejando durante una clase"
+      },
+      "adult": {
+        "anchor": "adultos",
+        "name": "Adultos que manejan por primera vez",
+        "short": "Nunca es tarde. Clases para adultos que sacan su primera licencia en Nueva Jersey.",
+        "who": [
+          "Adultos que sacan su primera licencia",
+          "Personas recién llegadas que quieren conocer las calles y reglas de NJ",
+          "Quien vuelve a manejar después de muchos años"
+        ],
+        "learn": [
+          "El proceso para personas de 21 años o más",
+          "Preparación para el examen escrito",
+          "Clases que se ajustan a tu horario",
+          "Preparación para el examen de manejo con nuestro carro",
+          "Confianza en calles locales y autopistas"
+        ],
+        "imageAlt": "Un adulto frente al volante"
+      }
+    }
+  },
+  "guide": {
+    "eyebrow": "Guía de licencia en NJ",
+    "title": "Cómo sacar la licencia de conducir en Nueva Jersey",
+    "intro": "Una explicación clara del programa de licencia por etapas de Nueva Jersey (GDL), desde tu primer permiso de conducir hasta tu licencia básica.",
+    "toc": "En esta página",
+    "helpTitle": "¿Quieres ayuda con alguno de estos pasos?",
+    "helpBody": "Te acompañamos en todo el proceso, en español o en inglés.",
+    "sections": [
+      {
+        "id": "como-funciona",
+        "title": "Cómo funciona el proceso en NJ",
+        "paragraphs": [
+          "Nueva Jersey otorga la licencia por etapas con su programa GDL (Graduated Driver License). Empiezas con un permiso, practicas con supervisión, apruebas el examen de manejo, manejas con una licencia provisional y luego recibes tu licencia básica."
+        ],
+        "bullets": [
+          "Permiso → práctica supervisada → examen de manejo",
+          "Licencia provisional → licencia básica después de 1 año"
+        ]
+      },
+      {
+        "id": "permiso",
+        "title": "Paso 1: Saca tu permiso de conducir",
+        "paragraphs": [
+          "Hay dos caminos comunes, según tu edad."
+        ],
+        "bullets": [
+          "A los 16: el permiso especial de aprendiz, si estás inscrito en un curso de manejo aprobado con una escuela de manejo con licencia y tienes el consentimiento de tus padres. Debes aprobar el examen escrito y el de la vista.",
+          "A los 17 o más: los jóvenes que no toman el curso esperan hasta los 17 para el permiso de examen."
+        ]
+      },
+      {
+        "id": "examen-escrito",
+        "title": "Paso 2: El examen escrito y el de la vista",
+        "paragraphs": [
+          "El examen de conocimientos tiene 50 preguntas. Necesitas 40 respuestas correctas para aprobar. También harás un examen de la vista.",
+          "Estudia el Manual del Conductor oficial de NJ y revisa los requisitos de identificación de la MVC (los 6 puntos de identificación) antes de ir."
+        ],
+        "bullets": [
+          "50 preguntas",
+          "40 correctas para aprobar",
+          "Examen de la vista en la misma visita"
+        ]
+      },
+      {
+        "id": "clases-de-manejo",
+        "title": "Paso 3: Clases de manejo con instructor",
+        "paragraphs": [
+          "El camino del permiso especial de aprendiz incluye 6 horas de clases de manejo en un carro de doble control con un instructor con licencia. Muchos estudiantes toman clases adicionales para sentirse listos de verdad."
+        ],
+        "bullets": []
+      },
+      {
+        "id": "manejo-supervisado",
+        "title": "Paso 4: Manejo supervisado",
+        "paragraphs": [
+          "Antes del examen de manejo, practicarás con un conductor supervisor."
+        ],
+        "bullets": [
+          "Menores de 21: 6 meses de manejo supervisado. Las nuevas reglas también piden 50 horas de práctica supervisada.",
+          "21 años o más: un periodo más corto, de 3 meses."
+        ]
+      },
+      {
+        "id": "examen-de-manejo",
+        "title": "Paso 5: El examen de manejo",
+        "paragraphs": [
+          "El examen de manejo comprueba que puedes manejar con seguridad y hacer las maniobras básicas. Te recomendamos practicar con el carro de la escuela y usarlo el día del examen, para que todo te resulte familiar.",
+          "Si no pasas, puedes repetir el examen después de 14 días. Aprovecha ese tiempo para practicar lo que más te costó."
+        ],
+        "bullets": []
+      },
+      {
+        "id": "licencia-provisional",
+        "title": "Paso 6: Licencia provisional y licencia básica",
+        "paragraphs": [
+          "Cuando apruebas, recibes una licencia provisional. Después de 1 año manejando sin supervisión, puedes pasar a la licencia básica."
+        ],
+        "bullets": []
+      },
+      {
+        "id": "restricciones-gdl",
+        "title": "Restricciones GDL para conductores jóvenes",
+        "paragraphs": [
+          "Los conductores jóvenes tienen reglas adicionales mientras tienen el permiso o la licencia provisional. Por ejemplo, con el permiso especial de aprendiz no puedes manejar entre las 11:01 p. m. y las 5:00 a. m.",
+          "Puede haber otras reglas GDL. Consulta la lista completa y actualizada en la MVC."
+        ],
+        "bullets": []
+      }
+    ],
+    "imageAlts": {
+      "crossing": "Un cruce peatonal en una intersección",
+      "highway": "Carros manejando en una autopista",
+      "city": "Manejando por las calles de la ciudad"
+    }
+  },
+  "about": {
+    "eyebrow": "Nosotros",
+    "title": "Una escuela de manejo del barrio que habla tu idioma",
+    "intro": "JK Speedy Driving School está en Somerset Street, en North Plainfield. Te acompañamos en todo el proceso para sacar tu licencia de conducir, con paciencia y respeto.",
+    "storyTitle": "Nuestra historia",
+    "story": "Agrega la historia de la escuela: quién fundó JK Speedy, cuándo abrió y por qué.",
+    "missionTitle": "Nuestra misión",
+    "mission": "Que sacar la licencia se sienta posible para todos, sobre todo para las personas nerviosas y las familias que prefieren aprender en su propio idioma.",
+    "instructorsTitle": "Conoce a los instructores",
+    "instructorsIntro": "Pronto agregaremos nombres, fotos y biografías reales.",
+    "instructorPlaceholder": "Nombre del instructor",
+    "instructorRole": "Instructor de manejo con licencia",
+    "instructorBio": "Agrega una biografía corta: idiomas que habla, especialidades y una frase sobre su forma de enseñar.",
+    "languagesTitle": "Idiomas que hablamos",
+    "languagesBody": "Nuestro equipo habla español, inglés, portugués y árabe, para que tú y tu familia pregunten todo en el idioma en que se sientan más cómodos.",
+    "carTitle": "El carro",
+    "carBody": "Aprendes en un carro de doble control, así tu instructor puede ayudarte a frenar si hace falta. Te recomendamos practicar con el carro de la escuela para tu examen de manejo.",
+    "carModel": "Marca y modelo del vehículo",
+    "safetyTitle": "Nuestro compromiso con la seguridad",
+    "safety": [
+      "Instructores con licencia y un carro de doble control",
+      "Explicaciones claras y con calma antes de cada maniobra nueva",
+      "Clases que avanzan a tu ritmo",
+      "Seguimos los requisitos vigentes de la MVC de NJ"
+    ],
+    "licenseNumber": "N.º de licencia de escuela de manejo de la MVC de NJ",
+    "photoNote": "Foto de archivo",
+    "heroAlt": "Una carretera escénica entre árboles",
+    "carImageAlt": "Un instructor y un estudiante dentro de un carro durante una clase"
+  },
+  "areas": {
+    "eyebrow": "Zonas",
+    "title": "Clases de manejo cerca de Plainfield, NJ",
+    "intro": "Nuestra oficina está en el 134 de Somerset St, en North Plainfield. Recibimos estudiantes de estos pueblos y comunidades cercanas.",
+    "listTitle": "Pueblos y condados",
+    "confirmNote": "Zona de servicio por confirmar con la escuela.",
+    "counties": "Condados de Somerset y Union",
+    "mapTitle": "Encuéntranos",
+    "loadMap": "Mostrar el mapa",
+    "mapNote": "Carga Google Maps, que puede usar cookies.",
+    "mapFrameTitle": "Mapa con la ubicación de JK Speedy Driving School en 134 Somerset St, North Plainfield, NJ",
+    "notListed": "¿No ves tu pueblo? Llámanos y pregunta."
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "intro": "Respuestas claras sobre el permiso de conducir, las clases y el examen de manejo en Nueva Jersey. ¿Te queda alguna duda? Llámanos o escríbenos.",
+    "items": [
+      {
+        "q": "¿Dan clases de manejo en español?",
+        "a": "Sí. Damos clases en español y en inglés, y nuestro equipo también habla portugués y árabe. Dinos qué idioma prefieres cuando reserves."
+      },
+      {
+        "q": "Me dan muchos nervios manejar. ¿Me pueden ayudar?",
+        "a": "¡Claro que sí! Nos especializamos en personas que manejan por primera vez o sienten miedo al volante. Empezamos en calles tranquilas, te explicamos cada paso antes de hacerlo y vamos a tu ritmo."
+      },
+      {
+        "q": "¿Qué edad necesito para sacar el permiso en NJ?",
+        "a": "A los 16 puedes sacar el permiso especial de aprendiz si estás inscrito en un curso de manejo aprobado, con el consentimiento de tus padres, y apruebas el examen escrito y el de la vista. Si no tomas el curso, esperas hasta los 17 para el permiso de examen."
+      },
+      {
+        "q": "¿Cuántas horas de clases de manejo se requieren?",
+        "a": "El camino del permiso especial de aprendiz incluye 6 horas de clases en un carro de doble control con un instructor con licencia. Siempre puedes tomar más clases si quieres practicar más."
+      },
+      {
+        "q": "¿Cuántas preguntas tiene el examen escrito de NJ?",
+        "a": "50 preguntas. Necesitas 40 respuestas correctas para aprobar. También harás un examen de la vista."
+      },
+      {
+        "q": "¿Cuánto tiempo tengo que practicar antes del examen de manejo?",
+        "a": "Si tienes menos de 21 años, cuenta con 6 meses de manejo supervisado; las nuevas reglas también piden 50 horas de práctica supervisada. Si tienes 21 o más, el periodo es más corto: 3 meses."
+      },
+      {
+        "q": "¿Puedo usar su carro para el examen de manejo?",
+        "a": "Sí. Te recomendamos practicar con el carro de la escuela y usarlo en el examen de manejo, para que todo te resulte familiar. Llámanos para organizarlo."
+      },
+      {
+        "q": "¿Qué pasa si no apruebo el examen de manejo?",
+        "a": "Le pasa a mucha gente, y está bien. Puedes repetir el examen después de 14 días. En tus próximas clases nos enfocamos en lo que más te costó."
+      },
+      {
+        "q": "¿Hay restricciones para los conductores jóvenes?",
+        "a": "Sí. Aplican las reglas GDL de Nueva Jersey. Por ejemplo, con el permiso especial de aprendiz no puedes manejar entre las 11:01 p. m. y las 5:00 a. m. Consulta la lista completa y actualizada en nj.gov/mvc."
+      },
+      {
+        "q": "¿Qué pasa después de aprobar?",
+        "a": "Recibes una licencia provisional. Después de 1 año manejando sin supervisión, puedes pasar a la licencia básica."
+      },
+      {
+        "q": "¿Cuánto cuestan las clases?",
+        "a": "Nuestras clases tienen precios accesibles, y el costo depende del programa. Llámanos para conocer las tarifas y paquetes actuales."
+      },
+      {
+        "q": "¿Cómo reservo y dónde están?",
+        "a": "Llama al (908) 757-3456, escríbenos por WhatsApp o usa el formulario. Estamos en 134 Somerset St, 2.º piso, North Plainfield, NJ 07060. Abrimos de lunes a viernes de 9:00 a. m. a 8:00 p. m. y los sábados de 9:00 a. m. a 1:00 p. m."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Reserva tu clase o haznos una pregunta",
+    "intro": "Llámanos, escríbenos por WhatsApp o envía el formulario. Te respondemos en horario de oficina.",
+    "visitTitle": "Visítanos",
+    "callTitle": "Llama o escribe",
+    "nextTitle": "¿Qué pasa después?",
+    "next": [
+      "Te contactamos en horario de oficina",
+      "Resolvemos tus dudas y te recomendamos un programa",
+      "Eliges un horario y empiezas a manejar"
+    ]
+  },
+  "form": {
+    "title": "Solicita tu clase",
+    "subtitle": "Te toma un minuto. Los campos con * son obligatorios.",
+    "name": "Nombre completo",
+    "phone": "Teléfono",
+    "email": "Correo electrónico (opcional)",
+    "language": "Idioma preferido",
+    "languageOptions": {
+      "es": "Español",
+      "en": "English",
+      "pt": "Português",
+      "ar": "العربية"
+    },
+    "age": "Edad del estudiante",
+    "ageOptions": {
+      "u17": "Menos de 17",
+      "17-20": "17–20",
+      "21+": "21 o más"
+    },
+    "service": "Servicio que necesitas",
+    "serviceUnsure": "Todavía no sé",
+    "times": "Mejores días y horarios",
+    "timesHint": "Elige todos los que te funcionen.",
+    "timeOptions": {
+      "wd-am": "Entre semana, mañanas",
+      "wd-pm": "Entre semana, tardes",
+      "wd-eve": "Entre semana, noches",
+      "sat": "Sábados por la mañana"
+    },
+    "message": "Mensaje (opcional)",
+    "messageHint": "¿Algo que debamos saber? Por ejemplo, si te dan nervios.",
+    "honeypot": "Deja este campo vacío",
+    "submit": "Enviar solicitud",
+    "sending": "Enviando…",
+    "consent": "Al enviar, aceptas que te contactemos por teléfono, mensaje de texto o correo sobre tu solicitud.",
+    "errors": {
+      "summary": "Revisa los campos marcados, por favor.",
+      "nameRequired": "Escribe tu nombre, por favor.",
+      "phoneRequired": "Escribe un número de teléfono, por favor.",
+      "phoneInvalid": "Escribe un número de teléfono válido de 10 dígitos.",
+      "emailInvalid": "Revisa tu correo electrónico.",
+      "ageRequired": "Elige un grupo de edad.",
+      "serviceRequired": "Elige un servicio.",
+      "server": "No pudimos enviar tu solicitud. Llámanos al (908) 757-3456 o inténtalo otra vez.",
+      "network": "Parece que no tienes conexión. Revisa tu internet e inténtalo otra vez."
+    },
+    "success": {
+      "title": "¡Recibimos tu solicitud!",
+      "body": "Gracias, {name}. Te contactamos en horario de oficina. ¿Lo necesitas antes? Llama al (908) 757-3456.",
+      "again": "Enviar otra solicitud"
+    }
+  },
+  "footer": {
+    "tagline": "Clases de manejo con paciencia, en español y en inglés, en North Plainfield, NJ. Del permiso al examen de manejo.",
+    "visit": "Visítanos",
+    "explore": "Explora",
+    "listings": "Encuéntranos en",
+    "yelp": "Yelp",
+    "google": "Google",
+    "rights": "Todos los derechos reservados.",
+    "stockNote": "Las fotos son imágenes de archivo y no muestran a nuestros estudiantes, instructores ni vehículos."
+  },
+  "legal": {
+    "privacy": {
+      "title": "Política de privacidad",
+      "updated": "Última actualización: noviembre de 2026",
+      "draftNote": "Política provisional. Debe revisarse antes del lanzamiento.",
+      "sections": [
+        {
+          "title": "Qué información recopilamos",
+          "body": "Cuando usas nuestro formulario, recopilamos lo que escribes: tu nombre, teléfono, correo (opcional), idioma preferido, grupo de edad, el servicio que te interesa, tus horarios preferidos y tu mensaje."
+        },
+        {
+          "title": "Cómo la usamos",
+          "body": "Usamos tu información solo para responder a tu solicitud, programar clases y contestar tus preguntas. No vendemos tu información."
+        },
+        {
+          "title": "Con quién la compartimos",
+          "body": "Las solicitudes pueden enviarse a través de proveedores que nos ayudan a gestionar contactos y correos (por ejemplo, un CRM o un servicio de correo). Solo pueden usarla para darnos ese servicio."
+        },
+        {
+          "title": "Cookies",
+          "body": "Este sitio recuerda tu idioma con una pequeña cookie. No usa cookies de publicidad ni de analítica. Si decides mostrar el mapa, Google Maps puede usar sus propias cookies."
+        },
+        {
+          "title": "Tus opciones",
+          "body": "Puedes pedirnos que actualicemos o borremos tu información en cualquier momento llamando al (908) 757-3456."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Términos de uso",
+      "updated": "Última actualización: noviembre de 2026",
+      "draftNote": "Términos provisionales. Deben revisarse antes del lanzamiento.",
+      "sections": [
+        {
+          "title": "Solo información",
+          "body": "El contenido de este sitio, incluida la Guía de licencia en NJ, es información general. No es asesoría legal y no garantiza el resultado de ningún examen. Confirma siempre los requisitos vigentes con la Comisión de Vehículos Motorizados de NJ."
+        },
+        {
+          "title": "Clases y horarios",
+          "body": "La disponibilidad, los precios y las políticas de las clases se confirman directamente con JK Speedy Driving School al reservar."
+        },
+        {
+          "title": "Fotos",
+          "body": "Algunas fotos de este sitio son imágenes de archivo y no muestran a nuestros estudiantes, instructores ni vehículos."
+        },
+        {
+          "title": "Contacto",
+          "body": "¿Tienes preguntas sobre estos términos? Llámanos al (908) 757-3456."
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Te equivocaste de salida.",
+    "body": "No encontramos esa página. Te ayudamos a volver al camino.",
+    "home": "Volver al inicio",
+    "contact": "Contáctanos"
+  }
+}

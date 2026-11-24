@@ -1,0 +1,728 @@
+{
+  "meta": {
+    "siteName": "JK Speedy Driving School",
+    "home": {
+      "title": "Driving School in North Plainfield, NJ | JK Speedy",
+      "description": "Patient, bilingual driving instructors in North Plainfield, NJ. Permit test help, behind-the-wheel lessons and road test prep for nervous drivers."
+    },
+    "services": {
+      "title": "Driving Lessons & Road Test Prep NJ | JK Speedy",
+      "description": "Permit test prep, behind-the-wheel lessons, road test prep with our car, teen and adult programs, and help for nervous drivers in North Plainfield, NJ."
+    },
+    "guide": {
+      "title": "How to Get Your NJ Driver's License (2026 Guide)",
+      "description": "NJ license guide, step by step: special learner's permit at 16, knowledge test, 6 hours behind the wheel, supervised driving, road test and probation."
+    },
+    "about": {
+      "title": "About JK Speedy Driving School | North Plainfield",
+      "description": "A local, multilingual driving school on Somerset St in North Plainfield, NJ. Patient instructors who specialize in first-time and nervous drivers."
+    },
+    "areas": {
+      "title": "Driving Lessons Near Plainfield, NJ | Areas We Serve",
+      "description": "JK Speedy serves students from North Plainfield, Plainfield, South Plainfield, Green Brook, Dunellen, Watchung and nearby Somerset and Union County towns."
+    },
+    "faq": {
+      "title": "NJ Driving School FAQ | Permits, Lessons & Road Test",
+      "description": "Answers about NJ permits, the knowledge test, behind-the-wheel hours, road test retakes, lessons in Spanish and help for nervous drivers."
+    },
+    "contact": {
+      "title": "Book a Driving Lesson | Contact JK Speedy, NJ",
+      "description": "Call (908) 757-3456, message us on WhatsApp or book online. 134 Somerset St, 2nd Floor, North Plainfield, NJ. Open Mon–Sat."
+    },
+    "privacy": {
+      "title": "Privacy Policy | JK Speedy Driving School",
+      "description": "How JK Speedy Driving School collects, uses and protects the information you share through this website."
+    },
+    "terms": {
+      "title": "Terms of Use | JK Speedy Driving School",
+      "description": "Terms that apply when you use the JK Speedy Driving School website."
+    },
+    "notFound": {
+      "title": "Page not found | JK Speedy Driving School",
+      "description": "We couldn't find that page."
+    }
+  },
+  "common": {
+    "skip": "Skip to main content",
+    "call": "Call",
+    "callNow": "Call now",
+    "callNumber": "Call {phone}",
+    "book": "Book a lesson",
+    "bookShort": "Book",
+    "whatsapp": "WhatsApp",
+    "whatsappLong": "Message us on WhatsApp",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "learnMore": "Learn more",
+    "readGuide": "Read the NJ license guide",
+    "getDirections": "Get directions",
+    "home": "Home",
+    "primaryNav": "Main",
+    "footerNav": "Footer",
+    "breadcrumb": "Breadcrumb",
+    "quickActions": "Quick actions",
+    "confirm": "To confirm",
+    "otherLanguages": "Also available in Português / العربية: call us.",
+    "lastVerified": "Last verified: Nov 2026",
+    "mvcCheck": "Rules change. Always confirm the current requirements with the NJ Motor Vehicle Commission.",
+    "mvcLink": "Visit nj.gov/mvc",
+    "notLegalAdvice": "This guide is general information, not legal advice, and it can't guarantee any test result.",
+    "openNow": "Open now",
+    "closedNow": "Closed now",
+    "opensToday": "Opens today at {time}",
+    "external": "(opens in a new tab)",
+    "backToTop": "Back to top",
+    "imageUnavailable": "Image unavailable",
+    "scrollProgress": "Reading progress",
+    "pause": "Pause animation",
+    "play": "Play animation"
+  },
+  "language": {
+    "label": "Language",
+    "switchTo": "Cambiar a español",
+    "announce": "Language changed to English"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "guide": "NJ License Guide",
+    "about": "About",
+    "areas": "Areas",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "whatsapp": {
+    "prefill": "Hi JK Speedy! I'd like information about driving lessons."
+  },
+  "hours": {
+    "title": "Hours",
+    "weekdays": "Mon–Fri",
+    "saturday": "Sat",
+    "sunday": "Sun",
+    "weekdaysLong": "Monday–Friday",
+    "saturdayLong": "Saturday",
+    "sundayLong": "Sunday",
+    "weekdaysTime": "9:00 AM–8:00 PM",
+    "saturdayTime": "9:00 AM–1:00 PM",
+    "closed": "Closed"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "North Plainfield, NJ · Hablamos Español",
+      "titleLines": [
+        "Learn to drive",
+        "with confidence."
+      ],
+      "subtitle": "Patient, bilingual instructors in North Plainfield, NJ. From your permit to your road test, we're with you every step.",
+      "facts": [
+        "Spanish · English · Português · العربية",
+        "Open Mon–Sat",
+        "Nervous drivers welcome"
+      ],
+      "imageAlt": "Driving instructor with a clipboard beside a car, ready for a lesson",
+      "imageNote": "Stock photo"
+    },
+    "marqueeLabel": "Languages we speak",
+    "why": {
+      "eyebrow": "Why JK Speedy",
+      "title": "Calm lessons. Clear steps. Real progress.",
+      "intro": "Getting your license is a big step. We keep it simple, patient and affordable, in the language you're most comfortable with.",
+      "items": [
+        {
+          "title": "Patient, bilingual instructors",
+          "body": "Clear, respectful instructions in Spanish or English. We also speak Portuguese and Arabic."
+        },
+        {
+          "title": "Nervous-driver specialists",
+          "body": "No rushing, no yelling. We go at your pace and build your confidence one skill at a time."
+        },
+        {
+          "title": "Affordable lessons",
+          "body": "Fair prices for real, practical instruction. Call us for current rates and packages."
+        },
+        {
+          "title": "Help with the whole process",
+          "body": "Permit, written test, behind-the-wheel lessons and the road test. We guide you from start to finish."
+        }
+      ],
+      "nervous": {
+        "title": "Nervous? You're in the right place.",
+        "body": "We specialize in first-time and anxious drivers. We start in quiet streets, explain every step before we do it, and only move on when you feel ready.",
+        "cta": "See the Nervous Driver Program",
+        "imageAlt": "A woman sitting calmly at the wheel of a car"
+      }
+    },
+    "stats": {
+      "title": "The facts, at a glance",
+      "items": [
+        {
+          "value": 4,
+          "suffix": "",
+          "label": "languages spoken",
+          "note": "Spanish, English, Portuguese and Arabic"
+        },
+        {
+          "value": 6,
+          "suffix": "h",
+          "label": "behind the wheel",
+          "note": "NJ requirement for the special learner's permit path"
+        },
+        {
+          "value": 6,
+          "suffix": "",
+          "label": "days a week",
+          "note": "Open Monday through Saturday"
+        },
+        {
+          "value": 50,
+          "suffix": "",
+          "label": "test questions",
+          "note": "NJ knowledge test: 40 correct to pass"
+        }
+      ]
+    },
+    "servicesPreview": {
+      "eyebrow": "What we teach",
+      "title": "Everything you need, from permit to license",
+      "intro": "Pick where you are today. We'll take it from there.",
+      "cta": "View all services"
+    },
+    "journey": {
+      "eyebrow": "Your road to a license",
+      "title": "Five stops between you and your license",
+      "intro": "Scroll to drive the route. Every stop is a step we help you with.",
+      "progressLabel": "Step {current} of {total}",
+      "steps": [
+        {
+          "title": "Permit",
+          "body": "At 16 you can get a special learner's permit by enrolling in an approved behind-the-wheel course with a parent's consent. Otherwise, you can get an examination permit at 17.",
+          "tip": "We handle the enrollment paperwork with you."
+        },
+        {
+          "title": "Written test",
+          "body": "Pass the knowledge test (50 questions, 40 correct) and a vision test at the MVC.",
+          "tip": "We review signs, rules and practice questions with you."
+        },
+        {
+          "title": "Behind-the-wheel lessons",
+          "body": "Complete 6 hours of instruction in a dual-controlled car with a licensed instructor, then keep practicing.",
+          "tip": "Lessons go at your pace, in your language."
+        },
+        {
+          "title": "Road test",
+          "body": "Show the examiner you can drive safely. You're encouraged to practice with, and test in, our school car.",
+          "tip": "Didn't pass? You can retest after 14 days."
+        },
+        {
+          "title": "Your license",
+          "body": "You'll start with a probationary license. After a year of unsupervised driving, you can move to a basic license.",
+          "tip": "Congratulations. Drive safe!"
+        }
+      ]
+    },
+    "njSteps": {
+      "eyebrow": "NJ license steps",
+      "title": "How the NJ license process works for you",
+      "intro": "New Jersey uses a Graduated Driver License (GDL) program. Your timeline depends on your age.",
+      "under21": {
+        "title": "Under 21",
+        "items": [
+          "Special learner's permit at 16 through an approved behind-the-wheel course, with parental consent",
+          "Or an examination permit at 17",
+          "6 months of supervised driving before the road test",
+          "New rules also call for 50 hours of supervised practice",
+          "Probationary license, then a basic license after 1 year"
+        ]
+      },
+      "over21": {
+        "title": "21 and older",
+        "items": [
+          "Pass the knowledge and vision tests",
+          "Shorter supervised period: 3 months",
+          "Road test (retest after 14 days if needed)",
+          "Probationary license, then a basic license after 1 year"
+        ]
+      },
+      "cta": "Read the full NJ license guide"
+    },
+    "reviews": {
+      "eyebrow": "Student reviews",
+      "title": "What our students say",
+      "intro": "Real reviews from Google and Yelp will appear here.",
+      "sampleLabel": "Sample slot",
+      "samplePlaceholder": "Replace with a real review from Google or Yelp: the reviewer's first name, the review text and the source link.",
+      "sampleName": "Reviewer name",
+      "leaveTitle": "Learned with us?",
+      "leaveBody": "Your review helps other nervous drivers and families find us.",
+      "google": "Review us on Google",
+      "yelp": "Review us on Yelp"
+    },
+    "areasPreview": {
+      "eyebrow": "Areas we serve",
+      "title": "Close to home in North Plainfield",
+      "intro": "Our office is at 134 Somerset St. Students come to us from across the Plainfields and nearby towns.",
+      "cta": "See all areas"
+    },
+    "faqPreview": {
+      "eyebrow": "Questions",
+      "title": "Quick answers",
+      "cta": "See all questions"
+    },
+    "finalCta": {
+      "title": "Ready when you are.",
+      "body": "Tell us a little about yourself and we'll call you back during business hours. Prefer to talk now? Give us a call.",
+      "imageAlt": "Car keys being handed over, the moment you get your license"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Driving lessons for every stage",
+    "intro": "From your first permit question to the day you get your keys, choose the help you need. Every program is taught by patient instructors in Spanish or English.",
+    "jumpTo": "Jump to a service",
+    "whoFor": "Who it's for",
+    "whatLearn": "What you'll learn",
+    "pricing": "Pricing",
+    "pricingValue": "Call for current rates",
+    "bookThis": "Book this",
+    "askAbout": "Ask about this program",
+    "items": {
+      "permit": {
+        "anchor": "permit-test-prep",
+        "name": "Permit & Written Test Prep",
+        "short": "Get ready for the NJ knowledge test: 50 questions, 40 correct to pass.",
+        "who": [
+          "First-time applicants of any age",
+          "Teens preparing for the special learner's permit",
+          "Anyone who'd rather study in Spanish or English with a real person"
+        ],
+        "learn": [
+          "How the knowledge and vision tests work",
+          "Road signs, signals and right-of-way",
+          "NJ rules for new drivers (GDL)",
+          "Practice questions and test-day tips",
+          "What to bring to the MVC"
+        ],
+        "imageAlt": "A traffic light at an intersection"
+      },
+      "lessons": {
+        "anchor": "behind-the-wheel-lessons",
+        "name": "Behind-the-Wheel Lessons",
+        "short": "One-on-one driving lessons in a dual-controlled car with a licensed instructor.",
+        "who": [
+          "Beginners who have never driven",
+          "Permit holders who need structured practice",
+          "Drivers who want to polish specific skills"
+        ],
+        "learn": [
+          "Vehicle controls, smooth starts and stops",
+          "Steering, turns and lane position",
+          "Intersections, signals and right-of-way",
+          "Parallel parking and three-point turns",
+          "Neighborhood, city and highway driving when you're ready"
+        ],
+        "imageAlt": "Hands on a steering wheel during a driving lesson"
+      },
+      "road-test": {
+        "anchor": "road-test-prep",
+        "name": "Road Test Prep + School Car",
+        "short": "Practice what examiners look for, then take your road test in the car you trained in.",
+        "who": [
+          "Permit holders getting close to test day",
+          "Anyone retesting after a road test (retest after 14 days)",
+          "Drivers who don't have a car to test in"
+        ],
+        "learn": [
+          "A full mock road test",
+          "Parallel parking, three-point turns and backing up",
+          "The small mistakes that cost points",
+          "What to bring and what to expect on test day",
+          "Using our school car for your road test"
+        ],
+        "imageAlt": "A car parked between lines, practicing parking maneuvers"
+      },
+      "nervous": {
+        "anchor": "nervous-drivers",
+        "name": "Nervous & First-Time Driver Program",
+        "short": "A calm, step-by-step program for anyone who feels anxious behind the wheel.",
+        "who": [
+          "Anyone who feels nervous or scared to drive",
+          "Adults who have put off learning for years",
+          "Drivers coming back after a bad experience"
+        ],
+        "learn": [
+          "Start on quiet streets, at your pace",
+          "One new skill at a time, explained before we try it",
+          "Calm, clear instructions: no yelling, no rushing",
+          "Gradual steps toward busier roads",
+          "Lessons in Spanish or English"
+        ],
+        "imageAlt": "A woman driving calmly on a quiet road"
+      },
+      "teen": {
+        "anchor": "teen-program",
+        "name": "Teen Program (Permit at 16)",
+        "short": "The approved behind-the-wheel course teens need for a special learner's permit at 16.",
+        "who": [
+          "Teens 16 and up ready to start driving",
+          "Parents who want a safe, structured start"
+        ],
+        "learn": [
+          "Enrollment with parental consent",
+          "Knowledge and vision test prep",
+          "6 hours of behind-the-wheel instruction",
+          "GDL rules, including no driving 11:01 PM–5:00 AM",
+          "A practice plan for the supervised-driving period"
+        ],
+        "imageAlt": "A young driver on the road during a lesson"
+      },
+      "adult": {
+        "anchor": "adult-drivers",
+        "name": "Adult First-Time Drivers",
+        "short": "It's never too late. Lessons for adults getting their first license in New Jersey.",
+        "who": [
+          "Adults getting their first license",
+          "Newcomers learning New Jersey roads and rules",
+          "Anyone returning to driving after many years"
+        ],
+        "learn": [
+          "The path for drivers 21 and older",
+          "Knowledge test prep",
+          "Lessons that fit your schedule",
+          "Road test prep with our school car",
+          "Confidence on local roads and highways"
+        ],
+        "imageAlt": "An adult driver behind the wheel"
+      }
+    }
+  },
+  "guide": {
+    "eyebrow": "NJ License Guide",
+    "title": "How to get your driver's license in New Jersey",
+    "intro": "A plain-language walkthrough of New Jersey's Graduated Driver License (GDL) program, from your first permit to your basic license.",
+    "toc": "On this page",
+    "helpTitle": "Want help with any of these steps?",
+    "helpBody": "We help students through the whole process, in Spanish or English.",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "How the NJ license process works",
+        "paragraphs": [
+          "New Jersey licenses new drivers in stages through its Graduated Driver License (GDL) program. You start with a permit, practice with supervision, pass a road test, drive with a probationary license, and then earn your basic license."
+        ],
+        "bullets": [
+          "Permit → supervised practice → road test",
+          "Probationary license → basic license after 1 year"
+        ]
+      },
+      {
+        "id": "permit",
+        "title": "Step 1: Get your permit",
+        "paragraphs": [
+          "There are two common paths, depending on your age."
+        ],
+        "bullets": [
+          "Age 16: a special learner's permit, if you're enrolled in an approved behind-the-wheel course with a licensed driving school and have parental consent. You must pass the knowledge and vision tests.",
+          "Age 17 and up: teens who don't take the course wait until 17 for an examination permit."
+        ]
+      },
+      {
+        "id": "knowledge-test",
+        "title": "Step 2: The knowledge and vision tests",
+        "paragraphs": [
+          "The knowledge test has 50 questions. You need 40 correct answers to pass. You'll also take a vision test.",
+          "Study the official NJ Driver Manual and check the MVC's identification requirements (the 6 Points of ID) before you go."
+        ],
+        "bullets": [
+          "50 questions",
+          "40 correct to pass",
+          "Vision test at the same visit"
+        ]
+      },
+      {
+        "id": "behind-the-wheel",
+        "title": "Step 3: Behind-the-wheel instruction",
+        "paragraphs": [
+          "The special learner's permit path includes 6 hours of behind-the-wheel instruction in a dual-controlled vehicle with a licensed instructor. Many students take extra lessons to feel fully ready."
+        ],
+        "bullets": []
+      },
+      {
+        "id": "supervised-driving",
+        "title": "Step 4: Supervised driving",
+        "paragraphs": [
+          "Before the road test, you'll practice with a supervising driver."
+        ],
+        "bullets": [
+          "Under 21: 6 months of supervised driving. New rules also call for 50 hours of supervised practice.",
+          "21 and older: a shorter period of 3 months."
+        ]
+      },
+      {
+        "id": "road-test",
+        "title": "Step 5: The road test",
+        "paragraphs": [
+          "The road test checks that you can drive safely and handle common maneuvers. Students are encouraged to practice with, and test in, the school's car so everything feels familiar.",
+          "If you don't pass, you can retest after 14 days. Use that time to practice the parts that gave you trouble."
+        ],
+        "bullets": []
+      },
+      {
+        "id": "probationary",
+        "title": "Step 6: Probationary and basic license",
+        "paragraphs": [
+          "After you pass, you receive a probationary license. After 1 year of unsupervised driving, you can move up to a basic license."
+        ],
+        "bullets": []
+      },
+      {
+        "id": "gdl-restrictions",
+        "title": "GDL restrictions for young drivers",
+        "paragraphs": [
+          "Young drivers have extra rules while they hold a permit or probationary license. For example, with a special learner's permit you can't drive between 11:01 PM and 5:00 AM.",
+          "Other GDL rules may apply. Check the MVC for the complete, current list."
+        ],
+        "bullets": []
+      }
+    ],
+    "imageAlts": {
+      "crossing": "A pedestrian crosswalk at an intersection",
+      "highway": "Cars driving on a highway",
+      "city": "Driving through city streets"
+    }
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A neighborhood driving school that speaks your language",
+    "intro": "JK Speedy Driving School is on Somerset Street in North Plainfield. We help students through the whole process of getting a driver's license, with patience and respect.",
+    "storyTitle": "Our story",
+    "story": "Add the school's story: who founded JK Speedy, when it opened and why.",
+    "missionTitle": "Our mission",
+    "mission": "Make getting a license feel possible for everyone, especially nervous drivers and families who'd rather learn in their own language.",
+    "instructorsTitle": "Meet the instructors",
+    "instructorsIntro": "Real names, photos and bios coming soon.",
+    "instructorPlaceholder": "Instructor name",
+    "instructorRole": "Licensed driving instructor",
+    "instructorBio": "Add a short bio: languages spoken, specialties and a friendly line about their teaching style.",
+    "languagesTitle": "Languages we speak",
+    "languagesBody": "Our team speaks Spanish, English, Portuguese and Arabic, so you and your family can ask questions in the language you're most comfortable with.",
+    "carTitle": "The car",
+    "carBody": "You'll learn in a dual-controlled training car, so your instructor can help brake when needed. You're encouraged to practice with the school car for your road test.",
+    "carModel": "Vehicle make and model",
+    "safetyTitle": "Our safety commitment",
+    "safety": [
+      "Licensed instructors and a dual-controlled vehicle",
+      "Clear, calm explanations before every new maneuver",
+      "Lessons that move at your pace",
+      "We follow current NJ MVC requirements"
+    ],
+    "licenseNumber": "NJ MVC driving school license #",
+    "photoNote": "Stock photo",
+    "heroAlt": "A scenic open road winding through trees",
+    "carImageAlt": "An instructor and a student inside a car during a lesson"
+  },
+  "areas": {
+    "eyebrow": "Areas we serve",
+    "title": "Driving lessons near Plainfield, NJ",
+    "intro": "Our office is at 134 Somerset St in North Plainfield. Students come to us from these towns and nearby communities.",
+    "listTitle": "Towns and counties",
+    "confirmNote": "Service area to be confirmed with the school.",
+    "counties": "Somerset County & Union County",
+    "mapTitle": "Find us",
+    "loadMap": "Show the map",
+    "mapNote": "Loads Google Maps, which may set cookies.",
+    "mapFrameTitle": "Map showing JK Speedy Driving School at 134 Somerset St, North Plainfield, NJ",
+    "notListed": "Don't see your town? Call us and ask."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "intro": "Clear answers about permits, lessons and the road test in New Jersey. Still unsure? Call or message us.",
+    "items": [
+      {
+        "q": "Do you teach in Spanish?",
+        "a": "Yes. We teach in Spanish and English, and our team also speaks Portuguese and Arabic. Tell us your preferred language when you book."
+      },
+      {
+        "q": "I'm very nervous about driving. Can you help?",
+        "a": "Absolutely. We specialize in first-time and nervous drivers. We start on quiet streets, explain each step before trying it, and move at your pace."
+      },
+      {
+        "q": "How old do I need to be to get a permit in NJ?",
+        "a": "At 16 you can get a special learner's permit if you're enrolled in an approved behind-the-wheel course with parental consent and you pass the knowledge and vision tests. Teens who don't take the course wait until 17 for an examination permit."
+      },
+      {
+        "q": "How many hours of behind-the-wheel training are required?",
+        "a": "The special learner's permit path includes 6 hours of behind-the-wheel instruction in a dual-controlled car with a licensed instructor. You can always add more lessons if you want extra practice."
+      },
+      {
+        "q": "How many questions are on the NJ knowledge test?",
+        "a": "50 questions. You need 40 correct answers to pass. You'll also take a vision test."
+      },
+      {
+        "q": "How long do I have to practice before the road test?",
+        "a": "If you're under 21, plan on 6 months of supervised driving, and new rules also call for 50 hours of supervised practice. If you're 21 or older, the period is shorter: 3 months."
+      },
+      {
+        "q": "Can I use your car for the road test?",
+        "a": "Yes. Students are encouraged to practice with our school car and use it for the road test, so everything feels familiar. Call us to plan it."
+      },
+      {
+        "q": "What happens if I fail the road test?",
+        "a": "It happens, and it's okay. You can retest after 14 days. We'll focus your next lessons on what gave you trouble."
+      },
+      {
+        "q": "Are there restrictions for new young drivers?",
+        "a": "Yes. New Jersey's GDL rules apply. For example, with a special learner's permit you can't drive between 11:01 PM and 5:00 AM. Check nj.gov/mvc for the full, current list."
+      },
+      {
+        "q": "What happens after I pass?",
+        "a": "You'll get a probationary license. After 1 year of unsupervised driving, you can move up to a basic license."
+      },
+      {
+        "q": "How much do lessons cost?",
+        "a": "Our lessons are affordable, and prices depend on the program. Call us for current rates and packages."
+      },
+      {
+        "q": "How do I book, and where are you?",
+        "a": "Call (908) 757-3456, message us on WhatsApp, or use the booking form. We're at 134 Somerset St, 2nd Floor, North Plainfield, NJ 07060. Open Monday–Friday 9:00 AM–8:00 PM and Saturday 9:00 AM–1:00 PM."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Book a lesson or ask a question",
+    "intro": "Call, message us on WhatsApp, or send the form. We'll get back to you during business hours.",
+    "visitTitle": "Visit us",
+    "callTitle": "Call or text",
+    "nextTitle": "What happens next",
+    "next": [
+      "We contact you during business hours",
+      "We answer your questions and recommend a program",
+      "You pick a time and start driving"
+    ]
+  },
+  "form": {
+    "title": "Request a lesson",
+    "subtitle": "It takes about a minute. Fields marked * are required.",
+    "name": "Full name",
+    "phone": "Phone number",
+    "email": "Email (optional)",
+    "language": "Preferred language",
+    "languageOptions": {
+      "es": "Español",
+      "en": "English",
+      "pt": "Português",
+      "ar": "العربية"
+    },
+    "age": "Student age group",
+    "ageOptions": {
+      "u17": "Under 17",
+      "17-20": "17–20",
+      "21+": "21+"
+    },
+    "service": "Service needed",
+    "serviceUnsure": "Not sure yet",
+    "times": "Best days and times",
+    "timesHint": "Choose all that work for you.",
+    "timeOptions": {
+      "wd-am": "Weekday mornings",
+      "wd-pm": "Weekday afternoons",
+      "wd-eve": "Weekday evenings",
+      "sat": "Saturday mornings"
+    },
+    "message": "Message (optional)",
+    "messageHint": "Anything we should know? For example, if you feel nervous.",
+    "honeypot": "Leave this field empty",
+    "submit": "Send request",
+    "sending": "Sending…",
+    "consent": "By sending, you agree that we may contact you by phone, text or email about your request.",
+    "errors": {
+      "summary": "Please fix the highlighted fields.",
+      "nameRequired": "Please enter your name.",
+      "phoneRequired": "Please enter a phone number.",
+      "phoneInvalid": "Please enter a valid 10-digit phone number.",
+      "emailInvalid": "Please check your email address.",
+      "ageRequired": "Please choose an age group.",
+      "serviceRequired": "Please choose a service.",
+      "server": "We couldn't send your request. Please call us at (908) 757-3456 or try again.",
+      "network": "Looks like you're offline. Check your connection and try again."
+    },
+    "success": {
+      "title": "Request received!",
+      "body": "Thanks, {name}. We'll contact you during business hours. Need us sooner? Call (908) 757-3456.",
+      "again": "Send another request"
+    }
+  },
+  "footer": {
+    "tagline": "Patient, bilingual driving lessons in North Plainfield, NJ. From permit to road test.",
+    "visit": "Visit",
+    "explore": "Explore",
+    "listings": "Find us on",
+    "yelp": "Yelp",
+    "google": "Google",
+    "rights": "All rights reserved.",
+    "stockNote": "Photos are stock images and don't show our students, instructors or vehicles."
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last updated: November 2026",
+      "draftNote": "Placeholder policy. Have it reviewed before launch.",
+      "sections": [
+        {
+          "title": "What we collect",
+          "body": "When you use our booking form, we collect what you enter: your name, phone number, optional email, preferred language, age group, the service you're interested in, your preferred times and your message."
+        },
+        {
+          "title": "How we use it",
+          "body": "We use your information only to respond to your request, schedule lessons and answer your questions. We don't sell your information."
+        },
+        {
+          "title": "Who we share it with",
+          "body": "Form submissions may be delivered through service providers that help us manage leads and email (for example, a CRM or email service). They may only use it to provide that service to us."
+        },
+        {
+          "title": "Cookies",
+          "body": "This site remembers your language choice with a small cookie. It doesn't use advertising or analytics cookies. If you choose to show the map, Google Maps may set its own cookies."
+        },
+        {
+          "title": "Your choices",
+          "body": "You can ask us to update or delete your information at any time by calling (908) 757-3456."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "updated": "Last updated: November 2026",
+      "draftNote": "Placeholder terms. Have them reviewed before launch.",
+      "sections": [
+        {
+          "title": "Information only",
+          "body": "Content on this website, including the NJ License Guide, is general information. It isn't legal advice and doesn't guarantee any test result. Always confirm current requirements with the NJ Motor Vehicle Commission."
+        },
+        {
+          "title": "Lessons and scheduling",
+          "body": "Lesson availability, pricing and policies are confirmed directly with JK Speedy Driving School when you book."
+        },
+        {
+          "title": "Photos",
+          "body": "Some photos on this site are stock images and don't show our students, instructors or vehicles."
+        },
+        {
+          "title": "Contact",
+          "body": "Questions about these terms? Call us at (908) 757-3456."
+        }
+      ]
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Wrong turn.",
+    "body": "We couldn't find that page. Let's get you back on the road.",
+    "home": "Back to home",
+    "contact": "Contact us"
+  }
+}
