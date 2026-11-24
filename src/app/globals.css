@@ -3,11 +3,11 @@
 /* ---------------------------------------------------------------------------
    Design tokens
    Contrast (WCAG 2.x), verified with scripts/contrast.mjs:
-   - paper text on asphalt ............ 17.6:1  (AAA)
-   - yellow on asphalt / asphalt on yellow 11.9:1 (AAA)
+   - paper text on asphalt ............ 17.2:1  (AAA)
+   - yellow on asphalt / asphalt on yellow 12.1:1 (AAA)
    - slate #8A94A6 on asphalt ......... 6.2:1   (AA)  → slate is used on DARK only
-   - ink-muted #535C6B on paper ....... 6.0:1   (AA)  → secondary text on LIGHT
-   - green #22C55E on asphalt ......... 8.3:1   (AA)  → green-ink #15803D on light (4.7:1)
+   - ink-muted #535C6B on paper ....... 6.1:1   (AA)  → secondary text on LIGHT
+   - green #22C55E on asphalt ......... 8.3:1   (AA)  → green-ink #15803D on light (5.0:1)
    Yellow is never used as text on light backgrounds.
 --------------------------------------------------------------------------- */
 @theme {
